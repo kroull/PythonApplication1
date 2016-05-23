@@ -1,5 +1,5 @@
 name = " "
-name = raw_input("Name: ")
+name = raw_input("Name = ")
 name = name.upper()
 
 print(name)
